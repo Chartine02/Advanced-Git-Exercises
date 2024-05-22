@@ -1,1 +1,1 @@
-Testing for conflicts and resolve them.
+Testing for resolvable conflicts.

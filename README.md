@@ -476,7 +476,7 @@ $ git rebase main
 Successfully rebased and updated refs/heads/ft/new-branch-from-commit.
 ```
 
-### 10.
+### 10.Understanding Reflogs (Bonus)
 
 ```bash
   TheGym@DESKTOP-9QFHBAI MINGW64 ~/Desktop/Gym/Advanced-Git-Exercises (main)
